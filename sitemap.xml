@@ -3,9 +3,6 @@
 		<loc>http://delosconsultoria.com.br/sobre.html</loc>
 	</url>
 	<url>
-		<loc>http://delosconsultoria.com.br/notícias.html</loc>
-	</url>
-	<url>
 		<loc>http://delosconsultoria.com.br/inscrições.html</loc>
 	</url>
 	<url>
@@ -27,18 +24,21 @@
 		<loc>http://delosconsultoria.com.br/index.html</loc>
 	</url>
 	<url>
-		<loc>http://delosconsultoria.com.br/mp579.html</loc>
+		<loc>http://delosconsultoria.com.br/noticias.html</loc>
 	</url>
 	<url>
-		<loc>http://delosconsultoria.com.br/crise.html</loc>
+		<loc>http://delosconsultoria.com.br/delosconsultoriaparceria.html</loc>
+	</url>
+	<url>
+		<loc>http://delosconsultoria.com.br/tarifaenergia.html</loc>
 	</url>
 	<url>
 		<loc>http://delosconsultoria.com.br/medidaprovisoria.html</loc>
 	</url>
 	<url>
-		<loc>http://delosconsultoria.com.br/valordatarifa.html</loc>
+		<loc>http://delosconsultoria.com.br/crise.html</loc>
 	</url>
 	<url>
-		<loc>http://delosconsultoria.com.br/delosconsultoriaparceria.html</loc>
+		<loc>http://delosconsultoria.com.br/mp579.html</loc>
 	</url>
 </urlset>
